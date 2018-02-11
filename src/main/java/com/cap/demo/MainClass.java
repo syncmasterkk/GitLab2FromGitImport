@@ -11,5 +11,6 @@ public class MainClass {
 	
 	public static void greetings(){
 		System.out.println("Welcome to Karthick Kannaiyan - GIT Repository");
+		System.out.println("Welcome to Karthick Kannaiyan - Merge command");
 	}
 }
